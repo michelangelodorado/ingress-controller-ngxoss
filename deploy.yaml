@@ -200,7 +200,7 @@ data:
 apiVersion: networking.k8s.io/v1
 kind: IngressClass
 metadata:
-  name: nginx
+  name: nginx-oss
   # annotations:
   #   ingressclass.kubernetes.io/is-default-class: "true"
 spec:
